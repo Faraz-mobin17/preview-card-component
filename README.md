@@ -26,13 +26,15 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop Version
 ![](./screenshot.png)
+#### Mobile Version
 ![](./screenshot_two.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Faraz-mobin17/preview-card-component)
+- Live Site URL: [Add live site URL here](https://distracted-euler-78d449.netlify.app/)
 
 ## My process
 
@@ -49,6 +51,6 @@ This project has helped me to recall use of flexbox to design a responsive layou
 
 ## Author
 
-- Website - [Faraz Mobin](https://www.your-site.com)
+- Website - [Faraz Mobin](https://distracted-euler-78d449.netlify.app/)
 - Frontend Mentor - [@Faraz-mobin17](https://www.frontendmentor.io/profile/Faraz-mobin17)
 - Twitter - [@Faraz_mobin](https://twitter.com/Faraz_mobin)
