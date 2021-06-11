@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Faraz-mobin17/preview-card-component)
-- Live Site URL: [Add live site URL here](https://distracted-euler-78d449.netlify.app/)
+- Solution URL: [Github URL](https://github.com/Faraz-mobin17/preview-card-component)
+- Live Site URL: [Live Site URL](https://distracted-euler-78d449.netlify.app/)
 
 ## My process
 
